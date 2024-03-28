@@ -255,9 +255,9 @@ export const education = [
   {
     id: 2,
     img: "https://lh3.googleusercontent.com/p/AF1QipOijfA3x4NM4RDZ83QPDIMhJzh7T6MKbT4JTse6=s680-w680-h510",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2017 - Apr 2019",
-    grade: "92.3%",
+    school: "Rasikganja Vidyasagar High School, Paschim Medinipur ",
+    date: "Apr 2015 - Apr 2016",
+    grade: "66.57%",
     desc: "I completed my class 10 education at Methodist School,Paschim Medinipur .",
     degree: "X, All Subject",
   },
